@@ -8,6 +8,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(14)%20Longest%20Common%20Prefix.cpp)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(13)%20Roman%20to%20Integer.cpp)|Easy|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(12)%20Integer%20to%20Roman.cpp)|Medium|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(11)%20Container%20With%20Most%20Water.cpp)|Medium|
