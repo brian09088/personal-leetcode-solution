@@ -8,6 +8,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1|[3Sum](https://leetcode.com/problems/3sum/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(15)%203Sum.cpp)|Medium|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(14)%20Longest%20Common%20Prefix.cpp)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(13)%20Roman%20to%20Integer.cpp)|Easy|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(12)%20Integer%20to%20Roman.cpp)|Medium|
