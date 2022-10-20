@@ -2,8 +2,6 @@
 // Author : Brian SU
 // Date   : 2022-10-20
 
-https://assets.leetcode.com/uploads/2022/03/15/1200px-telephone-keypad2svg.png
-
 class Solution {
     private:
     string tb[10]={
