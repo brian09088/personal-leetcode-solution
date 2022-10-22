@@ -8,6 +8,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(20)%20Valid%20Parentheses.cpp)|Easy|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(19)%20Remove%20Nth%20Node%20From%20End%20of%20List.cpp)|Medium|
 |18|[4Sum](https://leetcode.com/problems/4sum/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(18)%204Sum.cpp)|Medium|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(17)%20Letter%20Combinations%20of%20a%20Phone%20Number.cpp)|Medium|
