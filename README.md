@@ -8,6 +8,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(23)%20Merge%20k%20Sorted%20Lists.cpp)|Hard|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(22)%20Generate%20Parentheses.cpp)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(21)%20Merge%20Two%20Sorted%20Lists.cpp)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(20)%20Valid%20Parentheses.cpp)|Easy|
