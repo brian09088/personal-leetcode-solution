@@ -3,7 +3,7 @@
 LeetCode
 ========
 
-### LeetCode Algorithm
+### LeetCode Unclassified
 
 
 | # | Title | Solution | Difficulty |
