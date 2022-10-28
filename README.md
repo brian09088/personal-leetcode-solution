@@ -8,6 +8,8 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|27|[Remove Element](https://leetcode.com/problems/remove-element/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(27)%20Remove%20Element.cpp)|Easy|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(26)%20Remove%20Duplicates%20from%20Sorted%20Array.cpp)|Easy|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(25)%20Reverse%20Nodes%20in%20k-Group.cpp)|Hard|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)| [JAVA](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(24)%20Swap%20Nodes%20in%20Pairs.java)|Medium|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(23)%20Merge%20k%20Sorted%20Lists.cpp)|Hard|
