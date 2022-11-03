@@ -10,7 +10,6 @@ LeetCode
 |---| ----- | -------- | ---------- |
 
 |1000|[]()| [C++]()|Medium|
-
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(29)%20Divide%20Two%20Integers.cpp)|Medium|
 |28|[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(28)%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.cpp)|Medium|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(27)%20Remove%20Element.cpp)|Easy|
