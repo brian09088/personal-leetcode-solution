@@ -9,6 +9,7 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1000|[]()| [C++]()|Medium|
+|31|[Next Permutation](https://leetcode.com/problems/next-permutation/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(31)%20Next%20Permutation.cpp)|Medium|
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(30)%20Substring%20with%20Concatenation%20of%20All%20Words.cpp)|Hard|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(29)%20Divide%20Two%20Integers.cpp)|Medium|
 |28|[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(28)%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.cpp)|Medium|
