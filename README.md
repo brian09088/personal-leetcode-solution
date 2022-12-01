@@ -9,6 +9,11 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1000|[]()| [C++]()|Medium|
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(36)%20Valid%20Sudoku.cpp)|Medium|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(35)%20Search%20Insert%20Position.cpp)|Easy|
+|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(34)%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.cpp)|Medium|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(33)%20Search%20in%20Rotated%20Sorted%20Array.cpp)|Medium|
+|32|[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(32)%20Longest%20Valid%20Parentheses.cpp)|Hard|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(31)%20Next%20Permutation.cpp)|Medium|
 |30|[Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(30)%20Substring%20with%20Concatenation%20of%20All%20Words.cpp)|Hard|
 |29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(29)%20Divide%20Two%20Integers.cpp)|Medium|
