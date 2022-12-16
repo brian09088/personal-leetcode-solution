@@ -1,4 +1,4 @@
-# stack structure
+# Stack structure
 
 class Solution {
 public:
