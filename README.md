@@ -9,6 +9,12 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1000|[]()| [C++]()|Medium|
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(42-1)%20Trapping%20Rain%20Water.cpp)|Hard|
+|41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(41)%20First%20Missing%20Positive.cpp)|Hard|
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(40)%20Combination%20Sum%20II.cpp)|Medium|
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(39)%20Combination%20Sum.cpp)|Medium|
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(38)%20Count%20and%20Say.cpp)|Medium|
+|37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(37)%20Sudoku%20Solver.cpp)|Hard|
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(36)%20Valid%20Sudoku.cpp)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(35)%20Search%20Insert%20Position.cpp)|Easy|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(34)%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.cpp)|Medium|
