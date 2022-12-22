@@ -9,6 +9,11 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1000|[]()| [C++]()|Medium|
+|47|[Permutations II](https://leetcode.com/problems/permutations-ii/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(47)%20Permutations%20II.cpp)|Medium|
+|46|[Permutations](https://leetcode.com/problems/permutations/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(46)%20Permutations.cpp)|Medium|
+|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(45)%20Jump%20Game%20II.cpp)|Medium|
+|44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(44)%20Wildcard%20Matching.cpp)|Hard|
+|43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(43)%20Multiply%20Strings.cpp)|Medium|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(42-1)%20Trapping%20Rain%20Water.cpp)|Hard|
 |41|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(41)%20First%20Missing%20Positive.cpp)|Hard|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(40)%20Combination%20Sum%20II.cpp)|Medium|
