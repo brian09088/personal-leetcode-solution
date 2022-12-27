@@ -9,6 +9,8 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1000|[]()| [C++]()|Medium|
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(49-2)%20Group%20Anagrams.cpp)|Medium|
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(48)%20Rotate%20Image.cpp)|Medium|
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(47)%20Permutations%20II.cpp)|Medium|
 |46|[Permutations](https://leetcode.com/problems/permutations/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(46)%20Permutations.cpp)|Medium|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(45)%20Jump%20Game%20II.cpp)|Medium|
