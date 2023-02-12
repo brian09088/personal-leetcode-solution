@@ -9,6 +9,11 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1000|[]()| [C++]()|Medium|
+|61|[Rotate List](https://leetcode.com/problems/rotate-list/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(61)%20Rotate%20List.cpp)|Medium|
+|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(54)%20Spiral%20Matrix.cpp)|Medium|
+|53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(53)%20Maximum%20Subarray.cpp)|Medium|
+|52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(52)%20N-Queens%20II.cpp)|Medium|
+|51|[N-Queens](https://leetcode.com/problems/n-queens/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(51)%20N-Queens.cpp)|Medium|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/description/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(50-2)%20Pow(x%2C%20n).cpp)|Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(49-2)%20Group%20Anagrams.cpp)|Medium|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(48)%20Rotate%20Image.cpp)|Medium|
