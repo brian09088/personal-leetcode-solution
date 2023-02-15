@@ -10,6 +10,9 @@ LeetCode
 |---| ----- | -------- | ---------- |
 |1000|[]()| [C++]()|Medium|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(61)%20Rotate%20List.cpp)|Medium|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)| [C++](https://github.com/brian09088/personal-leetcode-Cpp-solution/blob/main/cpp/(58)%20Length%20of%20Last%20Word.cpp)|Easy|
+|57|[Insert Interval](https://leetcode.com/problems/insert-interval/)| [C++](https://github.com/brian09088/personal-leetcode-Cpp-solution/blob/main/cpp/(57)%20Insert%20Interval.cpp)|Medium|
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/)| [C++](https://github.com/brian09088/personal-leetcode-Cpp-solution/blob/main/cpp/(56)%20Merge%20Intervals.cpp)|Medium|
 |55|[Jump Game](https://leetcode.com/problems/jump-game/description/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(55)%20Jump%20Game.cpp)|Medium|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(54)%20Spiral%20Matrix.cpp)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(53)%20Maximum%20Subarray.cpp)|Medium|
