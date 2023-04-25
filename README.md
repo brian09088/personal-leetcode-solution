@@ -9,6 +9,7 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1000|[]()| [C++]()|Medium|
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths/description/)| [C++](https://github.com/brian09088/personal-leetcode-Cpp-solution/blob/main/cpp/(62)%20Unique%20Paths.cpp)|Medium|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)| [C++](https://github.com/brian09088/personal-leetcode/blob/main/cpp/(61)%20Rotate%20List.cpp)|Medium|
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)| [C++](https://github.com/brian09088/personal-leetcode-Cpp-solution/blob/main/cpp/(60)%20Permutation%20Sequence.cpp)|Hard|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/)| [C++](https://github.com/brian09088/personal-leetcode-Cpp-solution/blob/main/cpp/(59)%20Spiral%20Matrix%20II.cpp)|Medium|
