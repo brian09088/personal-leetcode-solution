@@ -9,6 +9,8 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1000|[]()| [C++]()|Medium|
+|69|[sqrt(x)](https://leetcode.com/problems/sqrtx/)| [C++](https://github.com/brian09088/personal-leetcode-Cpp-solution/blob/main/cpp/(69-1)%20Sqrt(x).cpp)|Easy|
+|68|[Text Justification](https://leetcode.com/problems/text-justification/)| [C++](https://github.com/brian09088/personal-leetcode-Cpp-solution/blob/main/cpp/(68)%20Text%20Justification.cpp)|Hard|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)| [C++](https://github.com/brian09088/personal-leetcode-Cpp-solution/blob/main/cpp/(67)%20Add%20Binary.cpp)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/)| [C++](https://github.com/brian09088/personal-leetcode-Cpp-solution/blob/main/cpp/(66)%20Plus%20One.cpp)|Easy|
 |65|[Valid Number](https://leetcode.com/problems/valid-number/)| [C++](https://github.com/brian09088/personal-leetcode-Cpp-solution/blob/main/cpp/(65)%20Valid%20Number.cpp)|Hard|
