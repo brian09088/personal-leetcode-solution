@@ -9,6 +9,10 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1000|[]()| [C++]()|Medium|
+|73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)| [C++](https://github.com/brian09088/personal-leetcode-Cpp-solution/blob/main/cpp/(73)%20Set%20Matrix%20Zeroes.cpp)|Medium|
+|72|[Edit Distance](https://leetcode.com/problems/edit-distance/)| [C++](https://github.com/brian09088/personal-leetcode-Cpp-solution/blob/main/cpp/(72)%20Edit%20Distance.cpp)|Hard|
+|71|[Simplify Path](https://leetcode.com/problems/simplify-path/)| [C++](https://github.com/brian09088/personal-leetcode-Cpp-solution/blob/main/cpp/(71)%20Simplify%20Path.cpp)|Medium|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)| [C++](https://github.com/brian09088/personal-leetcode-Cpp-solution/blob/main/cpp/(70)%20Climbing%20Stairs.cpp)|Easy|
 |69|[sqrt(x)](https://leetcode.com/problems/sqrtx/)| [C++](https://github.com/brian09088/personal-leetcode-Cpp-solution/blob/main/cpp/(69-1)%20Sqrt(x).cpp)|Easy|
 |68|[Text Justification](https://leetcode.com/problems/text-justification/)| [C++](https://github.com/brian09088/personal-leetcode-Cpp-solution/blob/main/cpp/(68)%20Text%20Justification.cpp)|Hard|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)| [C++](https://github.com/brian09088/personal-leetcode-Cpp-solution/blob/main/cpp/(67)%20Add%20Binary.cpp)|Easy|
