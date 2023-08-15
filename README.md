@@ -9,6 +9,7 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1000|[]()| [C++]()|Medium|
+|86|[Partion List](https://leetcode.com/problems/partition-list/description/)|[C++](https://github.com/brian09088/personal-leetcode-solution/blob/main/cpp/(86)%20partition-list.cpp)|Medium|
 |85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|[C++](https://github.com/brian09088/personal-leetcode-solution/blob/main/cpp/(85)%20Maximal%20Rectangle)|Hard|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[C++](https://github.com/brian09088/personal-leetcode-solution/blob/main/cpp/(84)%20Largest%20Rectangle%20in%20Histogram)|Hard|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[C++](https://github.com/brian09088/personal-leetcode-solution/blob/main/cpp/(83)%20Remove%20Duplicates%20from%20Sorted%20List.cpp)|Hard|
