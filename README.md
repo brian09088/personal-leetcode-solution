@@ -9,6 +9,9 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1000|[]()| [C++]()|Medium|
+|89|[Gray Code](https://leetcode.com/problems/gray-code/description/)|[C++](https://github.com/brian09088/personal-leetcode-solution/blob/main/cpp/(89)%20Gray%20Code.cpp)|Medium|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)|[C++](https://github.com/brian09088/personal-leetcode-solution/blob/main/cpp/(88)%20Merge%20Sorted%20Array.cpp)|Easy|
+|87|[Scramble String](https://leetcode.com/problems/scramble-string/description/)|[python](https://github.com/brian09088/personal-leetcode-solution/blob/main/cpp/(87)%20Scramble%20String.py)|Hard|
 |86|[Partion List](https://leetcode.com/problems/partition-list/description/)|[C++](https://github.com/brian09088/personal-leetcode-solution/blob/main/cpp/(86)%20partition-list.cpp)|Medium|
 |85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|[C++](https://github.com/brian09088/personal-leetcode-solution/blob/main/cpp/(85)%20Maximal%20Rectangle)|Hard|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[C++](https://github.com/brian09088/personal-leetcode-solution/blob/main/cpp/(84)%20Largest%20Rectangle%20in%20Histogram)|Hard|
