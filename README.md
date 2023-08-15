@@ -9,6 +9,18 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1000|[]()| [C++]()|Medium|
+|85|[Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)|[C++]|Hard|
+|84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[C++]|Hard|
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[C++]|Hard|
+|82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[C++]|Easy|
+|81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)|[C++]|Medium|
+|80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)|[C++]|Medium|
+|79|[Word Search](https://leetcode.com/problems/word-search/)| [C++]|Medium|
+|78|[Subsets](https://leetcode.com/problems/subsets/)| [C++]|Medium|
+|77|[Combinations](https://leetcode.com/problems/combinations/)| [C++]|Medium|
+|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)| [C++]|Hard|
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors/)| [C++]()|Medium|
+|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)| [C++]()|Medium|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)| [C++](https://github.com/brian09088/personal-leetcode-Cpp-solution/blob/main/cpp/(73)%20Set%20Matrix%20Zeroes.cpp)|Medium|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/)| [C++](https://github.com/brian09088/personal-leetcode-Cpp-solution/blob/main/cpp/(72)%20Edit%20Distance.cpp)|Hard|
 |71|[Simplify Path](https://leetcode.com/problems/simplify-path/)| [C++](https://github.com/brian09088/personal-leetcode-Cpp-solution/blob/main/cpp/(71)%20Simplify%20Path.cpp)|Medium|
